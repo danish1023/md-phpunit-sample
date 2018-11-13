@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit
+  stopOnFailure="true"
+  colors="true">
+
+  <testsuites>
+    <testsuite name="My Test Suite">
+      <directory>test</directory>
+    </testsuite>
+  </testsuites>
+
+</phpunit>
